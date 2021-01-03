@@ -8,3 +8,9 @@
 .lang__link:last-child {
     margin-right: 0;
 }
+@media screen and (min-width: 320px) and (max-width: 670px) {
+    .lang__link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

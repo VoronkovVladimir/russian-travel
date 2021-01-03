@@ -9,3 +9,12 @@
     margin-left: 132px;
     margin-bottom: 0;
 }
+@media screen and (min-width: 320px) and (max-width: 670px) {
+    .lead__title {
+        max-width: 288px;
+        font-size: 40px;
+        line-height: 44px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
