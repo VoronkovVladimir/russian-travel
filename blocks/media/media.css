@@ -219,7 +219,7 @@
     }
     .footer {
         flex-direction: column;
-        justify-content: flex-start; 
+        justify-content: flex-start;
         align-items: baseline;
         max-width: 186px;
         padding-top: 64px;
