@@ -1,0 +1,6 @@
+.lang__list-link {
+    margin-right: 18px;
+}
+.lang__list-link:last-of-type {
+    margin-right: 0;
+}

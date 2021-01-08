@@ -1,14 +1,14 @@
 .lang__link {
     font-size: 24px;
     line-height: 28px;
-    margin-right: 18px;
     color: #FFFFFF;
     text-decoration: none;
+    transition: .5s;
 }
-.lang__link:last-child {
-    margin-right: 0;
+.lang__link:hover {
+    opacity: 0.8;
 }
-@media screen and (min-width: 320px) and (max-width: 670px) {
+@media screen and (max-width: 670px) {
     .lang__link {
         font-size: 18px;
         line-height: 20px;
