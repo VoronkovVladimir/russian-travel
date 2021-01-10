@@ -9,9 +9,9 @@
     margin-left: auto;
     margin-bottom: 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 694px) {
     .lead__title {
-        font-size: 91px;
+        font-size: 90px;
     }
 }
 @media screen and (max-width: 670px) {
